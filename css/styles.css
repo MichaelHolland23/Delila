@@ -1,0 +1,24 @@
+img {
+  width: 50%;
+  height: auto;
+}
+
+#dark {
+  background-color: grey;
+}
+
+#ligt{
+  background-color: white;
+}
+
+.dark-background {
+  background-color: black;
+}
+
+.light-background {
+  background-color: white;
+}
+
+#night {
+  display: none;
+}
